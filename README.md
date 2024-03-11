@@ -21,4 +21,5 @@ Python 3.x
 Run the launch file:
 ```
 ros2 launch aluminum_description aluminum_sim_bringup.launch.py
+```
 

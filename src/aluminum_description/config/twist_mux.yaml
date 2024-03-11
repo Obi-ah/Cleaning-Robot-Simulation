@@ -1,0 +1,13 @@
+twist_mux:
+  ros__parameters:
+    topics:
+      user_command:
+        topic   : /teleop_cmd_vel
+        timeout : 0.5
+        priority: 10
+      auto_nav:
+        name    : auto_nav
+        topic   : /nav_cmd_vel
+        timeout : 0.5
+        priority: 1
+

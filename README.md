@@ -13,10 +13,9 @@ This project focuses on simulating the physical properties, geometry and percept
 Before running the simulation, ensure you have the following installed:
 
 ROS2 Humble or later: *Installation Instructions*  
-
-Gazebo: *Installation Instructions*
-RViz: *Installation Instructions*
-Python 3.x: *Installation Instructions*
+Gazebo: *Installation Instructions*  
+RViz: *Installation Instructions*  
+Python 3.x: *Installation Instructions*  
 
 ## Usage
 Run the launch file:

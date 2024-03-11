@@ -14,8 +14,8 @@ Before running the simulation, ensure you have the following installed:
 
 ROS2 Humble or later 
 Gazebo  
-RViz
-Python 3.x 
+RViz  
+Python 3.x  
 
 ## Usage
 Run the launch file:

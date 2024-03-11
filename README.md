@@ -18,6 +18,11 @@ RViz
 Python 3.x  
 
 ## Usage
+
+Build the ros package:
+```
+colcon build
+```
 Run the launch file:
 ```
 ros2 launch aluminum_description aluminum_sim_bringup.launch.py
